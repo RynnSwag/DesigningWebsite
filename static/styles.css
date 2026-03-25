@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Rock+Salt&display=swap');
+#title{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: "Rock Salt";
+    color: rgb(3, 205, 3);
+}
+
+#subtitle{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Rock Salt";
+    color: rgb(3, 205, 3);
+}
+
+body{
+    background-image: url(backinthegrass.jpg);
+    background-size: cover;
+    
+}
+
+
+
+.col-3 img{
+    margin-top: 100px;
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+}
+
+.col-3 img:hover {
+  transform: scale(1.1);
+}
+
